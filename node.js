@@ -7,4 +7,4 @@ console.log(a / b) // Output: 0.6666666666666666
 console.log(a - b) // Output: -1
 console.log(a ** b) // Output: 8
 console.log(a % b) // Output: 2
-    
+console.log(a++) // Output: 2 (post-increment, returns the value before incrementing)
